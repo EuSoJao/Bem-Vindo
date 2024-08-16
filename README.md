@@ -1,4 +1,4 @@
-### Seja Bem-Vindo ao meu perfil
+### Seja Bem-Vindo ao meu perfil 👋
 
 Meu nome é Joao Victor
 
@@ -7,6 +7,6 @@ Meu nome é Joao Victor
 - Tenho um inglês intermediario
 - Utilizo github para guardar projetos pessoais
 
-### Entrar em contato comigo
+### Entrar em contato comigo 📭
 
   jvrd1515@gmail.com
